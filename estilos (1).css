@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.contenedor{
+    width: 1200px;
+    height: auto;
+    background-color: rgb(129, 167, 211);
+    margin: 0% auto;
+}
+.banner{
+    height: 200px;
+    background-color: rgb(47, 48, 50);
+}
+.menu{
+    height: 50px;
+    background-color: beige;
+}
+.texto{
+    height: auto;
+    background-color: rgb(148, 179, 236);
+    color: brown;
+    line-height: 150%;
+    padding: 30px;
+    
+}
+.imagen{
+    height: 400px;
+    background-color: aquamarine (56,225,177);
+    
+
+}
+.pie{
+    height: 100px;
+    background-color:white;
+    padding-left: 0%;
+    padding: 50px;
+}
+.redes{
+    width: 64px;
+    height: 64px;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+.redes a:hover{
+    filter: blur(50px);
+}
+.h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+.btn{
+    width: 300px; height: 50px;
+    background-color: rgb(148, 179, 236);
+    float: left; text-align: center;
+    padding-top: 15px;
+}
+
+.btn:hover{
+    background-color: red;
+    color: black;
+}
+
+.nombres{
+    width: 240px; height: auto;
+    background-color: rgb(129, 167, 211);
+    float: left; text-align: center;
+    margin-top: 0px;
+
+}
+.titulo{
+    background-color: rgb(148, 179, 236);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+
+}
+.curiosidades{
+height: auto; font-size: medium; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: justify; line-height: 150%;
+}
